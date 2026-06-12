@@ -1,0 +1,7 @@
+target/
+.idea/
+*.bat
+*.ps1
+*.md
+.git/
+.gitignore
